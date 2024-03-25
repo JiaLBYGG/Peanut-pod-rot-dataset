@@ -1,0 +1,26 @@
+<annotation>
+	<folder>huashengtupian</folder>
+	<filename>168.jpg</filename>
+	<path>D:\huashengtupian\168.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1400</width>
+		<height>631</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>l</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>667</xmin>
+			<ymin>154</ymin>
+			<xmax>765</xmax>
+			<ymax>392</ymax>
+		</bndbox>
+	</object>
+</annotation>

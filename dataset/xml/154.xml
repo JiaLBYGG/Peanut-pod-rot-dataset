@@ -1,0 +1,26 @@
+<annotation>
+	<folder>huashengtupian</folder>
+	<filename>154.jpg</filename>
+	<path>D:\huashengtupian\154.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1400</width>
+		<height>631</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>l</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>591</xmin>
+			<ymin>304</ymin>
+			<xmax>708</xmax>
+			<ymax>483</ymax>
+		</bndbox>
+	</object>
+</annotation>

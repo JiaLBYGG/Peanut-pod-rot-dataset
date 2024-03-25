@@ -1,0 +1,26 @@
+<annotation>
+	<folder>huashengtupian</folder>
+	<filename>393.jpg</filename>
+	<path>D:\huashengtupian\393.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>631</width>
+		<height>1400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>h</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>150</xmin>
+			<ymin>546</ymin>
+			<xmax>448</xmax>
+			<ymax>717</ymax>
+		</bndbox>
+	</object>
+</annotation>
